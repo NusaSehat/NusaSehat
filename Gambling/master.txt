@@ -111,3 +111,5 @@ partnerkami.pages.dev
 firstcagayan.com
 pagcor.ph
 idnplay.com
+sukauang.com
+sukauang.id
